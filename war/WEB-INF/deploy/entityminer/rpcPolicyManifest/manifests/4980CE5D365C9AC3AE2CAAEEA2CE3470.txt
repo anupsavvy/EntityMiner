@@ -1,0 +1,2 @@
+serviceClass: com.hobby.entity.client.GreetingService
+path: 68ECB6FCB9FF64F7BB8DFC9F336D2D6B.gwt.rpc
